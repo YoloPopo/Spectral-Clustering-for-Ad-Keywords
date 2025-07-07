@@ -50,8 +50,6 @@ The analysis successfully identified meaningful partitions in the data. Partitio
 
 This `k=2` partition was highly consistent across both clustering methods (Adjusted Rand Index ≈ 0.99) and earned a higher Silhouette Score, indicating a clear and natural division in the data. The results demonstrate the power of spectral clustering in extracting actionable business intelligence from complex, unstructured graph data.
 
-*(Image is a representative placeholder for the t-SNE plots generated in the notebook.)*
-
 ---
 
 ## How to Run
